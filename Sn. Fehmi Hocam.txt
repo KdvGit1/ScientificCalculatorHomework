@@ -1,0 +1,2 @@
+Exe klasörü altında calculator_app.exe dosyası ile Windows cihazınızda doğrudan çalıştırabilirsiniz. 
+Saygılarımla Kadir Doğan Vural 1030521402
